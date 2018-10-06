@@ -20,3 +20,7 @@ C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.csp
 C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.csproj.CopyComplete
 C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.dll
 C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.pdb
+C:\Code\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.csprojResolveAssemblyReference.cache
+C:\Code\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.csproj.CoreCompileInputs.cache
+C:\Code\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.dll
+C:\Code\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.pdb

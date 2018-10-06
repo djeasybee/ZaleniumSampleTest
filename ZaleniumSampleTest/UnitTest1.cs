@@ -12,8 +12,7 @@ namespace ZaleniumSampleTest
    
     public class SeleniumFramework 
     {
-
-       
+        private RemoteWebDriver driver;
 
         [SetUp]
         public void Initilaize()
@@ -34,7 +33,7 @@ namespace ZaleniumSampleTest
             {
             
 
-            LoginPageObject pageLogin = new LoginPageObject();
+            LoginPageObject pageLogin = new LoginPageObject(driver);
             //ExcelLib.PopulateInCollection(@"C: \Users\bayo akintunde\Documents\Trainnings\ZaleniumTestFolder\Data.xlsx");
             //EAPageObject pageEA = pageLogin.Login(ExcelLib.ReadData(1, "UserName"), ExcelLib.ReadData(1, "Password"));
             //pageEA.FillUserForm(ExcelLib.ReadData(1, "Initial"), ExcelLib.ReadData(1, "MiddleName"), ExcelLib.ReadData(1, "FirstName"));
