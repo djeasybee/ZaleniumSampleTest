@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2016
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZaleniumSampleTest", "ZaleniumSampleTest\ZaleniumSampleTest.csproj", "{7252A3F3-127A-48ED-8CF2-5D19414BA4EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumParrallelTest", "SeleniumParrallelTest\SeleniumParrallelTest.csproj", "{2758C8EA-8D0F-414E-BC51-8B6D512E8AE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7252A3F3-127A-48ED-8CF2-5D19414BA4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7252A3F3-127A-48ED-8CF2-5D19414BA4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7252A3F3-127A-48ED-8CF2-5D19414BA4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2758C8EA-8D0F-414E-BC51-8B6D512E8AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2758C8EA-8D0F-414E-BC51-8B6D512E8AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2758C8EA-8D0F-414E-BC51-8B6D512E8AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2758C8EA-8D0F-414E-BC51-8B6D512E8AE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

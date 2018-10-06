@@ -1,0 +1,6 @@
+C:\Source\ZaleniumSampleTest\ParrallelTest\bin\Debug\netstandard2.0\ParrallelTest.deps.json
+C:\Source\ZaleniumSampleTest\ParrallelTest\bin\Debug\netstandard2.0\ParrallelTest.dll
+C:\Source\ZaleniumSampleTest\ParrallelTest\obj\Debug\netstandard2.0\ParrallelTest.csprojAssemblyReference.cache
+C:\Source\ZaleniumSampleTest\ParrallelTest\obj\Debug\netstandard2.0\ParrallelTest.csproj.CoreCompileInputs.cache
+C:\Source\ZaleniumSampleTest\ParrallelTest\obj\Debug\netstandard2.0\ParrallelTest.AssemblyInfoInputs.cache
+C:\Source\ZaleniumSampleTest\ParrallelTest\obj\Debug\netstandard2.0\ParrallelTest.AssemblyInfo.cs

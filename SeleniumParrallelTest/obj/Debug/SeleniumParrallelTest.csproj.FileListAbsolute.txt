@@ -1,0 +1,17 @@
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\SeleniumParrallelTest.dll
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\SeleniumParrallelTest.pdb
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\nunit.framework.dll
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\WebDriver.dll
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\WebDriver.Support.dll
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\nunit.framework.pdb
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\nunit.framework.xml
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\WebDriver.xml
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\WebDriver.Support.xml
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.csprojAssemblyReference.cache
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.csproj.CoreCompileInputs.cache
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.csproj.CopyComplete
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.dll
+C:\Source\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.pdb

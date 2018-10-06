@@ -8,39 +8,24 @@ using System.Threading.Tasks;
 
 namespace ZaleniumSampleTest
 {
-    public class SeleniumSetMethods
+    public static class SeleniumSetMethods
     {
-        public static void EnterText( string element, string value, PropertyType elementtype)
+        public static void EnterText(this IWebElement element, string value)
         {
-            if (elementtype == PropertyType.Id)
-
-                PropertiesCollections.driver.FindElement(By.Id(element)).SendKeys(value);
-
-            if (elementtype ==PropertyType.Name)
-                PropertiesCollections.driver.FindElement(By.Name(element)).SendKeys(value);
+            element.SendKeys(value);
         }
 
-        public static void Click( string element,  PropertyType elementtype)
+        public static void Clicks( this IWebElement element )
         {
-            if (elementtype == PropertyType.Id)
-
-                PropertiesCollections.driver.FindElement(By.Id(element)).Click();
-
-            if (elementtype == PropertyType.Name)
-                PropertiesCollections.driver.FindElement(By.Name(element)).Click();
+            element.Click();
         }
 
-        public static void SelectDropDown(string element, string value, PropertyType elementtype)
+        public static void SelectDropDown(this IWebElement element, string value)
         {
 
-            if (elementtype == PropertyType.Id)
+            new SelectElement(element).SelectByText(value);
 
-                new SelectElement(PropertiesCollections.driver.FindElement(By.Id(element))).SelectByText(value);
-
-            if (elementtype == PropertyType.Name)
-                new SelectElement(PropertiesCollections.driver.FindElement(By.Name(element))).SelectByText(value);
-
-
+           
         }
     }
 }

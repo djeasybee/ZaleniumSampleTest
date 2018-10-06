@@ -10,7 +10,7 @@ using ZaleniumSampleTest;
 namespace ZaleniumSampleTest 
 {
    
-    public class UnitTest1 :SeleniumSetMethods
+    public class SeleniumFramework 
     {
 
        
@@ -25,26 +25,37 @@ namespace ZaleniumSampleTest
             //new Uri("http://localhost:4446/wd/hub"), new ChromeOptions());
 
 
-            PropertiesCollections.driver.Navigate().GoToUrl("http://executeautomation.com/demosite/index.html?UserName=&Password=&Login=Login");
+            PropertiesCollections.driver.Navigate().GoToUrl("http://executeautomation.com/demosite/Login.html");
         }
 
 
         [Test]
-            public void Test()
+            public void ExecuteTest()
             {
-
-            SeleniumSetMethods.SelectDropDown( "TitleId", "Mr.", PropertyType.Id);
-
-            SeleniumSetMethods.EnterText("Initial", "executeautomation", PropertyType.Name);
-            Console.WriteLine("The Value from my Title is: " + SeleniumGetMethod.GetText("TitleId", PropertyType.Id));
-            Console.WriteLine("The value of my initial is: "+ SeleniumGetMethod.GetText( "Initial", PropertyType.Name));
-
-            SeleniumSetMethods.Click("Save", PropertyType.Name);
-           
-            Thread.Sleep(1000);
             
 
-            }
+            LoginPageObject pageLogin = new LoginPageObject();
+            //ExcelLib.PopulateInCollection(@"C: \Users\bayo akintunde\Documents\Trainnings\ZaleniumTestFolder\Data.xlsx");
+            //EAPageObject pageEA = pageLogin.Login(ExcelLib.ReadData(1, "UserName"), ExcelLib.ReadData(1, "Password"));
+            //pageEA.FillUserForm(ExcelLib.ReadData(1, "Initial"), ExcelLib.ReadData(1, "MiddleName"), ExcelLib.ReadData(1, "FirstName"));
+
+            EAPageObject pageEA = pageLogin.Login("execute", "automation");
+
+            pageEA.FillUserForm("KK", "Bayo", "Akins");
+
+
+
+            //SeleniumSetMethods.SelectDropDown( "TitleId", "Mr.", PropertyType.Id);
+            //SeleniumSetMethods.EnterText("Initial", "executeautomation", PropertyType.Name);
+            // Console.WriteLine("The Value from my Title is: " + SeleniumGetMethod.GetText("TitleId", PropertyType.Id));
+            //Console.WriteLine("The value of my initial is: "+ SeleniumGetMethod.GetText( "Initial", PropertyType.Name));
+
+            //SeleniumSetMethods.Click("Save", PropertyType.Name);
+
+            //Thread.Sleep(1000);
+
+
+        }
 
 
         [TearDown]
