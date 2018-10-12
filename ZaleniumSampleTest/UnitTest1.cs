@@ -9,15 +9,8 @@ using ZaleniumSampleTest;
 
 namespace ZaleniumSampleTest 
 {
-<<<<<<< HEAD
-   
-    public class SeleniumFramework 
-    {
-        private RemoteWebDriver driver;
-=======
     [Parallelizable]
     [TestFixture]
->>>>>>> refs/remotes/origin/master
 
     public class SeleniumFramework :Hooks
     {
@@ -32,15 +25,11 @@ namespace ZaleniumSampleTest
             public void ExecuteTest()
             {          
 
-<<<<<<< HEAD
-            LoginPageObject pageLogin = new LoginPageObject(driver);
-=======
             LoginPageObject pageLogin = new LoginPageObject();
             EAPageObject pageEA = pageLogin.Login("execute", "automation");
             pageEA.FillUserForm("KK", "Bayo", "Akins");
 
 
->>>>>>> refs/remotes/origin/master
             //ExcelLib.PopulateInCollection(@"C: \Users\bayo akintunde\Documents\Trainnings\ZaleniumTestFolder\Data.xlsx");
             //EAPageObject pageEA = pageLogin.Login(ExcelLib.ReadData(1, "UserName"), ExcelLib.ReadData(1, "Password"));
             //pageEA.FillUserForm(ExcelLib.ReadData(1, "Initial"), ExcelLib.ReadData(1, "MiddleName"), ExcelLib.ReadData(1, "FirstName"));

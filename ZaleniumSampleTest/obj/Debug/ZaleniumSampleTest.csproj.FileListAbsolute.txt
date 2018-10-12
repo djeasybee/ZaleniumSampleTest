@@ -24,8 +24,6 @@ C:\Code\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.cspro
 C:\Code\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.csproj.CoreCompileInputs.cache
 C:\Code\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.dll
 C:\Code\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.pdb
-<<<<<<< HEAD
-=======
 C:\Code\New folder\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\NUnit3.TestAdapter.dll
 C:\Code\New folder\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\NUnit3.TestAdapter.pdb
 C:\Code\New folder\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\nunit.engine.dll
@@ -53,4 +51,3 @@ C:\Code\New folder\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampl
 C:\Code\New folder\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.csproj.CopyComplete
 C:\Code\New folder\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.dll
 C:\Code\New folder\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.pdb
->>>>>>> refs/remotes/origin/master

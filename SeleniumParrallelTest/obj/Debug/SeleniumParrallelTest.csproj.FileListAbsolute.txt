@@ -31,8 +31,6 @@ C:\Code\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest
 C:\Code\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.csproj.CopyComplete
 C:\Code\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.dll
 C:\Code\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.pdb
-<<<<<<< HEAD
-=======
 C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\NUnit3.TestAdapter.dll
 C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\NUnit3.TestAdapter.pdb
 C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\nunit.engine.dll
@@ -59,4 +57,3 @@ C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumPa
 C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.csproj.CopyComplete
 C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.dll
 C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.pdb
->>>>>>> refs/remotes/origin/master
