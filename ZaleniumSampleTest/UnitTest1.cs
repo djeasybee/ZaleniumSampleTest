@@ -9,38 +9,41 @@ using ZaleniumSampleTest;
 
 namespace ZaleniumSampleTest 
 {
+<<<<<<< HEAD
    
     public class SeleniumFramework 
     {
         private RemoteWebDriver driver;
+=======
+    [Parallelizable]
+    [TestFixture]
+>>>>>>> refs/remotes/origin/master
 
-        [SetUp]
-        public void Initilaize()
+    public class SeleniumFramework :Hooks
+    {
+        public SeleniumFramework() : base(BrowserType.Firefox)
         {
-            PropertiesCollections.driver = new ChromeDriver();
 
-            // RemoteWebDriver driver = new RemoteWebDriver(
-
-            //new Uri("http://localhost:4446/wd/hub"), new ChromeOptions());
-
-
-            PropertiesCollections.driver.Navigate().GoToUrl("http://executeautomation.com/demosite/Login.html");
         }
+        
 
 
         [Test]
             public void ExecuteTest()
-            {
-            
+            {          
 
+<<<<<<< HEAD
             LoginPageObject pageLogin = new LoginPageObject(driver);
+=======
+            LoginPageObject pageLogin = new LoginPageObject();
+            EAPageObject pageEA = pageLogin.Login("execute", "automation");
+            pageEA.FillUserForm("KK", "Bayo", "Akins");
+
+
+>>>>>>> refs/remotes/origin/master
             //ExcelLib.PopulateInCollection(@"C: \Users\bayo akintunde\Documents\Trainnings\ZaleniumTestFolder\Data.xlsx");
             //EAPageObject pageEA = pageLogin.Login(ExcelLib.ReadData(1, "UserName"), ExcelLib.ReadData(1, "Password"));
             //pageEA.FillUserForm(ExcelLib.ReadData(1, "Initial"), ExcelLib.ReadData(1, "MiddleName"), ExcelLib.ReadData(1, "FirstName"));
-
-            EAPageObject pageEA = pageLogin.Login("execute", "automation");
-
-            pageEA.FillUserForm("KK", "Bayo", "Akins");
 
 
 
@@ -53,6 +56,41 @@ namespace ZaleniumSampleTest
 
             //Thread.Sleep(1000);
 
+        }
+
+
+        [Parallelizable]
+
+        [TestFixture]
+
+        public class ChromeBrowserTest : Hooks
+        {
+            public ChromeBrowserTest() : base(BrowserType.Chrome)
+            {
+            }
+
+
+            [Test]
+            public void ChromexGoogleTest()
+            {
+                LoginPageObject pageLogin = new LoginPageObject();
+                EAPageObject pageEA = pageLogin.Login("execute", "automation");
+
+                pageEA.FillUserForm("KK", "Bayo", "Akins");
+
+
+                //PropertiesCollections.driver.Navigate().GoToUrl("http://www.google.com");
+                //PropertiesCollections.driver.FindElement(By.Name("q")).SendKeys("ExecuteAutomation");
+                //Thread.Sleep(2000);
+                //PropertiesCollections.driver.FindElement(By.XPath("/html/body/div/div[3]/form/div[2]/div[2]/div/div[2]/div[2]/div[1]/div/ul/li[11]/div/span[1]/span/input")).Submit();
+
+                //Thread.Sleep(2000);
+                //Assert.That(PropertiesCollections.driver.PageSource.Contains("ExecuteAutomation"), Is.EqualTo(true), "The text selenium does not exist");
+
+                //Thread.Sleep(2000);
+                //PropertiesCollections.driver.Close();
+
+            }
 
         }
 
@@ -64,11 +102,13 @@ namespace ZaleniumSampleTest
 
             Thread.Sleep(00);
             PropertiesCollections.driver.Close();
+            PropertiesCollections.driver.Quit();
+
+            
+           
         }
 
-
         
-
     }
     }
 

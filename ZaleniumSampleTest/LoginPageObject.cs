@@ -10,29 +10,41 @@ using System.Threading.Tasks;
 
 namespace ZaleniumSampleTest
 {
-    class LoginPageObject
+    class LoginPageObject :Base
     {
-        //public LoginPageObject()
-        //{
-        //    PageFactory.InitElements(PropertiesCollections.driver, this);
-        //}
+        public LoginPageObject()
+        {
+            PageFactory.InitElements(PropertiesCollections.driver, this);
+        }
 
-        ////[FindsBy(How = How.Name, Using= "UserName")]
-        ////public IWebElement txtUserName { get; set; }
+        [FindsBy(How = How.Name, Using = "UserName")]
+        public IWebElement txtUserName { get; set; }
 
-        ////[FindsBy(How = How.Name, Using = "Password")]
-        ////public IWebElement txtPassword { get; set; }
+        [FindsBy(How = How.Name, Using = "Password")]
+        public IWebElement txtPassword { get; set; }
 
+<<<<<<< HEAD
         ////[FindsBy(How = How.Name, Using = "Login")]
         ///public IWebElement btnLogin { get; set; }
 
+=======
+        [FindsBy(How = How.Name, Using = "Login")]
+        public IWebElement btnLogin { get; set; }
+>>>>>>> refs/remotes/origin/master
 
-        private RemoteWebDriver _driver;
+        //private RemoteWebDriver _driver;
 
+<<<<<<< HEAD
         public LoginPageObject(RemoteWebDriver driver) => _driver = driver;
         public IWebElement txtUserName => _driver.FindElementByName("UserName");
         public IWebElement txtPassword => _driver.FindElementByName("Password");
         public IWebElement btnLogin => _driver.FindElementByName("Login");
+=======
+        //public LoginPageObject(RemoteWebDriver driver) => _driver = driver;
+        //public IWebElement txtUserName => _driver.FindElementByName("UserName");
+        //public IWebElement TxtPassword => _driver.FindElementByName("Password");
+        //public IWebElement btnLogin => _driver.FindElementByName("Login");
+>>>>>>> refs/remotes/origin/master
 
         public EAPageObject Login(string userName, string password)
         {

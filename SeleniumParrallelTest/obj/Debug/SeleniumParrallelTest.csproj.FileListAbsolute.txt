@@ -31,3 +31,32 @@ C:\Code\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest
 C:\Code\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.csproj.CopyComplete
 C:\Code\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.dll
 C:\Code\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.pdb
+<<<<<<< HEAD
+=======
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\nunit.engine.dll
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\nunit.engine.api.dll
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\Mono.Cecil.dll
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\SeleniumParrallelTest.dll
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\SeleniumParrallelTest.pdb
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\nunit.framework.dll
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\WebDriver.dll
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\WebDriver.Support.dll
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\ZaleniumSampleTest.dll
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\ExcelDataReader.dll
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\ZaleniumSampleTest.pdb
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\ZaleniumSampleTest.dll.config
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\nunit.framework.pdb
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\nunit.framework.xml
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\WebDriver.xml
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\WebDriver.Support.xml
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\ExcelDataReader.xml
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.csprojResolveAssemblyReference.cache
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.csproj.CoreCompileInputs.cache
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.csproj.CopyComplete
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.dll
+C:\Code\New folder\ZaleniumSampleTest\SeleniumParrallelTest\obj\Debug\SeleniumParrallelTest.pdb
+>>>>>>> refs/remotes/origin/master
