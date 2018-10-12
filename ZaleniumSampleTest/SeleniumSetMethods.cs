@@ -25,7 +25,6 @@ namespace ZaleniumSampleTest
 
             new SelectElement(element).SelectByText(value);
 
-           
-        }
+          }
     }
 }

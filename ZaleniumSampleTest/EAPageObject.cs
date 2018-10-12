@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ZaleniumSampleTest
 {
-    class EAPageObject
+    class EAPageObject : Base
     {
         public EAPageObject()
         {
