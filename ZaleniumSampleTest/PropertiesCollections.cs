@@ -15,10 +15,7 @@ namespace ZaleniumSampleTest
         ClassName,
         CssName
     }
-    class PropertiesCollections
-    {
-        public static IWebDriver driver { get; set; }
-    }
+ 
 
  
 }
