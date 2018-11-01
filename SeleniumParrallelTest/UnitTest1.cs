@@ -43,7 +43,6 @@ namespace SeleniumParrallelTest
         {
         }
 
-
         [Test]
         public void ChromexGoogleTest()
         {
@@ -58,6 +57,22 @@ namespace SeleniumParrallelTest
             Driver.Close();
 
         }
-       
+
+        
+        [Test]
+        public void ChromexGoogleTestxxx()
+        {
+            Driver.Navigate().GoToUrl("http://www.google.com");
+            Driver.FindElement(By.Name("q")).SendKeys("Selenium");
+            Thread.Sleep(2000);
+            Driver.FindElement(By.Name("btnG")).Submit();
+
+            Assert.That(Driver.PageSource.Contains("Selenium"), Is.EqualTo(true), "The text selenium does not exist");
+
+            Thread.Sleep(2000);
+            Driver.Close();
+
+        }
+
     }
 }

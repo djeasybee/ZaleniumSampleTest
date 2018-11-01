@@ -19,15 +19,5 @@ namespace ZaleniumSampleTest
         }
 
 
-
-        //[SetUp]
-        //public void Initilaize()
-        //{
-          
-           
-
-            
-            
-        //}
     }
 }

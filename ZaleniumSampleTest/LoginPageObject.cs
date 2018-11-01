@@ -1,6 +1,7 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Remote;
 using OpenQA.Selenium.Support.PageObjects;
+using OpenQA.Selenium.Support.UI;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -35,7 +36,12 @@ namespace ZaleniumSampleTest
 
         public EAPageObject Login(string userName, string password)
         {
+            //PropertiesCollections.driver.Wai
+            //Thread.Sleep(5000);
+
+          //  WebDriverWait Wait = new WebDriverWait(PropertiesCollections.driver, new TimeSpan(0,0,10));
             //UserName
+           // Wait.Until(ExpectedConditions.ElementExists(By.Name("UserName")));
             txtUserName.EnterText(userName);
 
             //Password

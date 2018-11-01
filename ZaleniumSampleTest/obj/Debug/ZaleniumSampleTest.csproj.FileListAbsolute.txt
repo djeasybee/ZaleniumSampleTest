@@ -1,25 +1,3 @@
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\ZaleniumSampleTest.dll.config
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\ZaleniumSampleTest.dll
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\ZaleniumSampleTest.pdb
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\Excel.Helper.dll
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\ExcelDataReader.DataSet.dll
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\ExcelDataReader.dll
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\ICSharpCode.SharpZipLib.dll
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\nunit.framework.dll
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\WebDriver.dll
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\WebDriver.Support.dll
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\Excel.Helper.xml
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\ExcelDataReader.xml
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\ExcelDataReader.DataSet.xml
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\nunit.framework.pdb
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\nunit.framework.xml
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\WebDriver.xml
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\WebDriver.Support.xml
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.csprojAssemblyReference.cache
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.csproj.CoreCompileInputs.cache
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.csproj.CopyComplete
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.dll
-C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.pdb
 C:\Code\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.csprojResolveAssemblyReference.cache
 C:\Code\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.csproj.CoreCompileInputs.cache
 C:\Code\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.dll
@@ -51,3 +29,30 @@ C:\Code\New folder\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampl
 C:\Code\New folder\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.csproj.CopyComplete
 C:\Code\New folder\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.dll
 C:\Code\New folder\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.pdb
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\nunit.engine.dll
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\nunit.engine.api.dll
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\Mono.Cecil.dll
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\ZaleniumSampleTest.dll.config
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\ZaleniumSampleTest.dll
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\ZaleniumSampleTest.pdb
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\Excel.Helper.dll
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\ExcelDataReader.dll
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\nunit.framework.dll
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\WebDriver.dll
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\WebDriver.Support.dll
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\Excel.Helper.xml
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\ExcelDataReader.xml
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\nunit.framework.pdb
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\nunit.framework.xml
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\WebDriver.xml
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\bin\Debug\WebDriver.Support.xml
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.csproj.CoreCompileInputs.cache
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.csproj.CopyComplete
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.dll
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.pdb
+C:\Source\ZaleniumSampleTest\ZaleniumSampleTest\obj\Debug\ZaleniumSampleTest.csprojAssemblyReference.cache

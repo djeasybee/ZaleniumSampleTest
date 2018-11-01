@@ -12,6 +12,7 @@ namespace ZaleniumSampleTest
     {
         public static void EnterText(this IWebElement element, string value)
         {
+            
             element.SendKeys(value);
         }
 
